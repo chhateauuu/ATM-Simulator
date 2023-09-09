@@ -39,4 +39,31 @@ ATM Simulator built in Java, offering an interactive experience to understand AT
 - Thanks to OpenAI for providing guidance.
 - All contributors and testers of this project.
 
+## Project Preview:
+
+
+### ATM Simulator Home Page:
+
+![ATM Simulator](https://github.com/chhateauuu/ATM-Simulator/blob/main/atm%20simulator/target/classes/Screenshot%202023-09-09%20at%202.23.39%20PM.png?raw=true)
+
+
+### Sign Up/Register Page:
+
+![SignUp Page](https://github.com/chhateauuu/ATM-Simulator/blob/main/atm%20simulator/target/classes/Screenshot%202023-09-09%20at%202.23.52%20PM.png?raw=true)
+
+
+### ATM Interface with Actions:
+
+![ATM Page - Deposit](https://github.com/chhateauuu/ATM-Simulator/blob/main/atm%20simulator/target/classes/Screenshot%202023-09-09%20at%202.20.35%20PM.png?raw=true)
+
+![ATM Page - Balance](https://github.com/chhateauuu/ATM-Simulator/assets/103888895/321b652b-1a0d-45ee-b225-f1e2ed750ae2)
+)
+
+
+
+
+
+
+
+
 
