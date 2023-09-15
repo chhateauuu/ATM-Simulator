@@ -57,7 +57,11 @@ ATM Simulator built in Java, offering an interactive experience to understand AT
 ![ATM Page - Deposit](https://github.com/chhateauuu/ATM-Simulator/blob/main/atm%20simulator/target/classes/Screenshot%202023-09-09%20at%202.20.35%20PM.png?raw=true)
 
 ![ATM Page - Balance](https://github.com/chhateauuu/ATM-Simulator/assets/103888895/321b652b-1a0d-45ee-b225-f1e2ed750ae2)
+
 )
+
+## License
+This project is open-source and available under the MIT License.
 
 
 
